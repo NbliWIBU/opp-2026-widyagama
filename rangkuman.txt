@@ -1,0 +1,12 @@
+Jadi Begini
+
+
+	Tentang rangkuman pada rails world 2026. Beliau menyatakan bahwa era menulis kode secara manual itu sudah selesai. Sekarang Ai yang menjadi pembuat kode default, sementara manusia itu mengawasi dan mengoreksi. Menurutku, pernyataan ini bukan berarti programmer tidak dibutuhkan, melainkan peran programmer berubah
+
+	Dampaknya bagiku sebagai siswa kelas 10 RPL itu ada dua. Pertama, saya tidak bisa lagi hanya mengandalkan hafalan sintaks atau data-data, karena AI jauh lebih cepat. Kedua, saya justru harus memperkuat logika, struktur data, dan pemahaman sistem, karena itu yang membuat saya mampu menilai apakah kode AI sudah benar atau belum.
+
+	Aku pribadi memiliki cita-cita membuat game indie dengan sekelompok teman-temanku, mungkin sekaligus juga membuat aplikasi dan website. Karena game dan aplikasi/web adalah hal yang bisa dibilang itu sama. Dengan adanya AI, cita-cita itu jadi lebih realistis karena aku bisa membuat produk lebih cepat.
+
+ Namun aku sadar, tanpa dasar yang kuat, aku hanya akan jadi orang yang "menyuruh AI" tanpa bisa bertanggung jawab atas hasilnya.
+
+	Kesimpulanku AI bukan akhir dari programmer, tetapi akhir dari programmer yang hanya bisa menulis kode. Aku lebih suka memilih untuk memanfaatkan AI sebagai alat, sambil terus memperdalam dasar-dasar RPL agar bisa membangun aplikasi dan website yang benar-benar bermanfaat.
