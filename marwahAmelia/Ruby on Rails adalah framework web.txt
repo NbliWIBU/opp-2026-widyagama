@@ -1,0 +1,9 @@
+Ruby on Rails adalah framework web yang menggunakan Bahasa pemrograman Ruby untuk membantu membuat aplikasi web dengan lebih cepat dan terstruktur.
+
+Ruby on Rails penting karena:mempermudah pembuatan aplikasi web.
+			     mengurangi penulisan kode secara manual.
+			     menyediakan fitur dan struktur yang sudah siap digunakan.
+			     membuat proses pemrograman lebih cepat dan efesien.
+
+Kesimpulan: Ruby on Rails menunjukan bahwa perkembangan teknologi telah membuat pemrograman menjadi lebih praktis.
+Jadi,era pemrograman manual semakin berkurang karena adanya framework yang membantu programer bekerja lebih cepat dan efesien.
