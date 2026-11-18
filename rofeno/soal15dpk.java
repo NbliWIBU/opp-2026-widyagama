@@ -1,4 +1,17 @@
-import java.util.ArrayList;
+
+    }
+
+    @Override
+    public void kembalikan() {
+        System.out.println(getJudul() + " berhasil dikembalikan!");
+    }
+}
+
+class Majalah extends Item implements BisaDipinjam {
+    private String edisi;
+
+    public Majalah(String judul, String edisi) {
+        super(judul);import java.util.ArrayList;
 
 interface BisaDipinjam {
     void pinjam();
@@ -39,19 +52,6 @@ class Buku extends Item implements BisaDipinjam {
     @Override
     public void pinjam() {
         System.out.println(getJudul() + " berhasil dipinjam!");
-    }
-
-    @Override
-    public void kembalikan() {
-        System.out.println(getJudul() + " berhasil dikembalikan!");
-    }
-}
-
-class Majalah extends Item implements BisaDipinjam {
-    private String edisi;
-
-    public Majalah(String judul, String edisi) {
-        super(judul);
         this.edisi = edisi;
     }
 
