@@ -1,0 +1,15 @@
+tentang ruby on rails:
+
+Ruby on Rails adalah kerangka kerja aplikasi web sumber terbuka (open-source) full-stack yang ditulis menggunakan bahasa pemrograman Ruby.
+
+Konsep dan Filosofi Utama
+
+• MVC (Model-View-Controller): Memisahkan aplikasi menjadi tiga bagian—Model (logika data dan basis data), View (tampilan antarmuka), dan Controller (penghubung alur data).
+• Convention over Configuration: Memberikan aturan dan struktur bawaan yang jelas sehingga pengembang tidak perlu melakukan pengaturan rumit dari awal.
+• DRY (Don't Repeat Yourself): Mengurangi pengulangan kode agar program lebih mudah dirawat dan dikembangkan.
+
+Kelebihan Utama
+
+• Pengembangan Cepat: Memungkinkan pembuatan aplikasi web lebih efisien berkat komponen siap pakai dan alat bantu pembuat kode (generator).
+• Ekosistem Lengkap: Menyediakan fitur bawaan mulai dari pengelolaan basis data (Active Record ORM), sistem routing, hingga keamanan dasar.
+• Skala Industri: Banyak digunakan oleh platform besar dunia seperti GitHub dan Shopify.
