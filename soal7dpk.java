@@ -1,27 +1,31 @@
-public class soal6dpk {
-    public static void main(String[] args) {
-        Rekening rekening = new Rekening();
 
-        rekening.setSaldo(1000000);
-        System.out.println("Saldo rekening: Rp" + rekening.getSaldo());
+class Menu {
+    private String nama;
+    private int harga;
 
-        rekening.setSaldo(-500000);
-        System.out.println("Saldo rekening: Rp" + rekening.getSaldo());
-    }
-}
-
-class Rekening {
-    private int saldo;
-
-    public int getSaldo() {
-        return saldo;
+    public String getNama() {
+        return nama;
     }
 
-    public void setSaldo(int jumlah) {
-        if (jumlah < 0) {
-            System.out.println("Error: Saldo tidak boleh negatif!");
+    public void setNama(String nama) {
+        this.nama = nama;
+    }
+
+    public int getHarga() {
+        return harga;
+    }
+
+    public void setHarga(int harga) {
+        if (harga > 0) {
+            this.harga = harga;
         } else {
-            saldo = jumlah;
+            System.out.println("Error: Harga harus lebih dari 0!");
         }
     }
+
+    public void tampilMenu() {
+        System.out.println("Nama: " + nama);
+        System.out.println("Harga: Rp" + harga);
+    }
 }
+
