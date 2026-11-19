@@ -1,0 +1,16 @@
+rangkuman tentang Ruby on Rails
+   Ruby on Rails adalah framework untuk membuat aplikasi web menggunakan bahasa pemrograman Ruby. Rails dirancang agar proses pembuatan aplikasi menjadi lebih cepat,sederhana,dan    
+terstruktur.
+
+Rails menggunkan konsep convention over configuration, sehingga programmer tidak perlu menulis banyak konfigurasi secara manual.Rails juga menyediakan struktur dan fitur yang membantu dalam membuat databes,halaman web,serta mengelola data.
+
+kelebian Ruby on Rails:
+1.pengembangan aplikasi lebih cepat.
+2.kode lebih sederhana dan terorganisir.
+3.mudah dikembangkan dan dipelihara.
+4.mengurangi pekerjaan pemrograman manual.
+5.memiliki banyak library dan komunitas pendukung
+
+
+kesimpulan menurut saya:
+  menurut saya Ruby on Rails menunjukkan bahwa perkembangan teknologi membuat pemrograman semakin praktis.Bukan pemrograman yang selesai,tetapi era pemrograman manual mulai beralih ke penggunaan framework dan teknologi modern.

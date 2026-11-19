@@ -1,0 +1,25 @@
+public class nama {
+     public Static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+         System.out.println("masukkan nama kamu = ");
+         String kelas = input.nextLine();
+
+         System.out.println("masukkan kelas kamu = ");
+         String kelas = input.nextLine();
+
+
+
+ System.out.println("----------------------------------------------------------------------------------------------------------------");
+
+             System.out.println("Nama : + nama):
+             System.out.println(Kelas : + kelas);
+
+
+Sytem.out.println("-----------------------------------------------------------------------------------------------------------------");
+
+            input.close();
+
+
+   }
+}

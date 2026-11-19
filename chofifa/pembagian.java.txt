@@ -1,0 +1,21 @@
+import Java.until.Scanner;
+
+public class pembagian {
+   public static void main(String[] args){
+      Scanner input = new Scanner(System.in);
+
+      System.out.print("Masukkkan angka
+pertama:")
+    int a = input.nextnt();
+
+    System.out.print("Masukkan angka kedua:
+");
+     int b =input.nextlnt();
+
+     int hasil = a/b;
+
+     System.out.println("Hasil pembagian:"+
+hasil):
+
+   }
+}

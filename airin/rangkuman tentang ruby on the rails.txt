@@ -1,0 +1,23 @@
+rangkuman tentang ruby on the rails
+	ruby on the rails,sering isebut dengan Rails adalah kerangka kerja (framework) yang ditulis menggunakan bahasa pemrograman ruby untuk membuat website dan aplikasi web dengan cepat.
+
+prinsip utama ruby on the rails adalah:
+1. MVC(Model View Controller)
+	membagi aplikasi menjadi tiga bagian:
+-Model (mengelola data dan logika database)
+-View (menampilkan antarmuka pengguna)
+-Controller (mengatur alur  komunikasi antara model dan view)
+
+2.Convention over Configuration (Konversi atas konfigurasi):
+	rails menyediakan aturan baku dan asumsi bawaan sehingga pengembangan tidak perlu repot mengatur konfigurasi manual yang rumit.
+3.DRY (Don`t Repeat Yourself):
+	 prinsip untuk menghindari pengulangan kode agar program lebih mudah dikembangkan.
+
+Kelebihan Ruby On The Rails 
+-pengembangan cepat
+-struktur rapi
+menambahkan berbagai fitur dengan mudah 
+
+kesimpulan menurut saya:
+Menurut saya, Ruby On The Rails adalah famework yang sangat bagus untuk belajar konsep web secara utuh karena prinsipnya yang ga ribet, kita menulis kode yang rapi dan terstruktur lewat MVC. 
+Rails membuktikan bahwa untuk membangun sebuah produk besar seperti GitHub tidak perlu stack yang rumit.
